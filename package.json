@@ -1,0 +1,11 @@
+{
+  "name": "sls-step-fn-human-interaction-example",
+  "description": "",
+  "version": "0.1.0",
+  "dependencies": {},
+  "devDependencies": {
+    "serverless-bundle": "^4.4.0",
+    "serverless-iam-roles-per-function": "^3.2.0",
+    "serverless-step-functions": "^2.32.0"
+  }
+}
